@@ -18,7 +18,7 @@
 > This fork is now the new repository.
 > For more information, please check the Discord:
 > https://discord.wf/kxsclient
->https://discord.gg/xtkbudbyxj
+> https://discord.gg/xtkbudbyxj
 
 ## 📋 Overview
 
