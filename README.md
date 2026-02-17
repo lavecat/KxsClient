@@ -9,7 +9,7 @@
 [![Version](https://img.shields.io/badge/Version-v2.10.2-blue?style=for-the-badge)](https://kxs.rip)
 [![Website](https://img.shields.io/badge/Website-kxs.rip-3B82F6?style=for-the-badge)](https://kxs.rip)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Discord](https://img.shields.io/badge/Discord-kisakay-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/Discord-kisakay-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cP73eXfgQJ)
 </div>
 
 > [!WARNING]
