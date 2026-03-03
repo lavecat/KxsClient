@@ -12,14 +12,6 @@
 [![Discord](https://img.shields.io/badge/Discord-kisakay-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cP73eXfgQJ)
 </div>
 
-> [!WARNING]
-> Why does this fork exist?
-> Because the original maintainer (kisakay) left Discord.
-> This fork is now the new repository.
-> For more information, please check the Discord:
-> https://discord.wf/kxsclient
-> https://discord.gg/NfsyQ7y3QZ
-
 ## 📋 Overview
 
 KxsClient (Kisakay x Surviv) is a premium-quality, free and open-source enhancement client for Surviv.io, written in TypeScript. It delivers over 30 fully configurable mods with a modern, user-friendly interface that enhances your gameplay experience without breaking the game's rules.
